@@ -1,5 +1,7 @@
-#Spider of lianjia
-简单的爬虫，爬取上海地区链家挂牌二手房信息。
+# Spider of lianjia
+##简单的爬虫，爬取上海地区链家挂牌二手房信息。无代理。。。。。勿喷
+
+
 <pre>
 .
 ├── README.md
